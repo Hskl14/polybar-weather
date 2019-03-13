@@ -21,7 +21,7 @@ Here is the parameters.
 
 ### Getting Started
 First of all, Application ID is needed;
-You can get your individual AppID by signing up to openweathermap:
+You can get your individual AppID by signing up to openweathermap and going to the API section:
 https://home.openweathermap.org/users/sign_up
 
 #### Getting Status
